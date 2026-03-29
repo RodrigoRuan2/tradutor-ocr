@@ -35,13 +35,15 @@ Ou clique em **"Abrir imagem"** para traduzir um arquivo de imagem direto do seu
 ![Resultado](assets/resultado.png)
 
 **Seletor de linguagem**
-![Seletor de linguagem](assets/seletor-de-linguagem.png)
+![Seletor de linguagem](assets/seletor.png)
 
 **Traduzindo texto em inglês**
-![Texto em inglês](assets/texto-em-ingles.png)
+![Texto em inglês](assets/ingles.png)
 
 **Textos simultâneos**
-![Textos simultâneos](assets/textos-simuntaneos.png)
+![Textos simultâneos](assets/textos1.png)
+![Textos simultâneos](assets/textos2.png)
+
 ## 🚀 Instalação para desenvolvimento
 
 ### 1. Requisitos
