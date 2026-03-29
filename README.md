@@ -26,7 +26,22 @@ Ferramenta desktop para capturar texto de qualquer parte da tela e traduzir inst
 Ou clique em **"Abrir imagem"** para traduzir um arquivo de imagem direto do seu PC.
 
 ---
+## 📸 Screenshots
 
+**Janela principal**
+![Janela principal](assets/janela-principal.png)
+
+**Resultado da tradução**
+![Resultado](assets/resultado.png)
+
+**Seletor de linguagem**
+![Seletor de linguagem](assets/seletor-de-linguagem.png)
+
+**Traduzindo texto em inglês**
+![Texto em inglês](assets/texto-em-ingles.png)
+
+**Textos simultâneos**
+![Textos simultâneos](assets/textos-simuntaneos.png)
 ## 🚀 Instalação para desenvolvimento
 
 ### 1. Requisitos
