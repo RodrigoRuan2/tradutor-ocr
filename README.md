@@ -81,14 +81,13 @@ O executável será gerado em `dist/TradutorOCR.exe`.
 ```
 tradutor-ocr/
 │
-├── main.py          # Ponto de entrada — inicia o programa e registra o atalho
-├── captura.py       # Seleção de área na tela e abertura de imagens
-├── ocr.py           # Extração de texto via Tesseract
-├── tradutor.py      # Tradução via Google Translate
-├── interface.py     # Interface gráfica (customtkinter)
+├── main.py          
+├── controle.py      
+├── captura.py / seletor.py      
+├── traducao.py      
+├── overlay.py       
 │
-├── requirements.txt # Dependências Python
-├── build.py         # Script para gerar o .exe
+├── requirements.txt 
 └── README.md
 ```
 
