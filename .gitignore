@@ -1,0 +1,17 @@
+# Gerado pelo PyInstaller — arquivos grandes e desnecessários
+dist/
+build/
+*.spec
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Pasta do ambiente virtual se tiver criado um
+venv/
+.env/
+
+# Arquivos de sistema do Windows
+Thumbs.db
+desktop.ini
