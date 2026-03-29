@@ -42,7 +42,6 @@ Ou clique em **"Abrir imagem"** para traduzir um arquivo de imagem direto do seu
 
 **Textos simultâneos**
 ![Textos simultâneos](assets/textos1.png)
-![Textos simultâneos](assets/textos2.png)
 
 ## 🚀 Instalação para desenvolvimento
 
